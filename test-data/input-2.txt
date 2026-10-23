@@ -1,0 +1,4 @@
+# felvaltva lonek, eslobol masodikba valt
+GT4500,10,0,10,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE

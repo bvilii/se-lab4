@@ -1,0 +1,3 @@
+# ALL modban az egyik tar hibaja nem akadalyozza a masikat
+GT4500,10,1,10,0
+TORPEDO,ALL

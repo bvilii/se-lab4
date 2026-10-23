@@ -1,0 +1,4 @@
+#ALL modban mindket tar tuzel
+GT4500,1,0,1,0
+TORPEDO,ALL     # mindket tar tuzel
+TORPEDO,SINGLE  # mindket tar ures
