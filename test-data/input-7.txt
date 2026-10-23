@@ -1,0 +1,3 @@
+#ha a kilott tar hibat jelez, a hajo nem probal a masikbol loni
+GT4500,10,1,10,0
+TORPEDO,SINGLE

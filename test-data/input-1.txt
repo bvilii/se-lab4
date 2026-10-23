@@ -1,0 +1,5 @@
+# letrehozunk egy hajot ami elsodlegesbol mindig sikerrel lő, a másodlagosból meg mindig nem sikerül
+GT4500,10,0,10,1
+
+# lovunk egyet
+TORPEDO,SINGLE

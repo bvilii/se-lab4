@@ -1,0 +1,3 @@
+# Sikeres hajó létrehozás és sikeres lövés az elsőből
+SUCCESS
+SUCCESS

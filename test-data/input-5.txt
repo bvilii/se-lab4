@@ -1,0 +1,5 @@
+# ha a soron kovetkezo (masodlagos) tar ures, a masik tarbol lovunk
+# Elobb egy lovessel elerjuk, hogy a masodlagos legyen soron
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
